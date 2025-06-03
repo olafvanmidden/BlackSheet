@@ -3,6 +3,8 @@ Cheat sheet for Blackjack actions based on player's hand and dealer's upcard
 
 ## How to Launch
 
+First, clone the repository and navigate to its directory.
+
 To run the program, use:
 
 ```bash
